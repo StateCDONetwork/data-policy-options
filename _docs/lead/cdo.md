@@ -1,3 +1,7 @@
+title: Lead
+category: Lead
+order: 1
+
 ## Lead -Designate an executive data leader as the Chief Data Officer
 
 
