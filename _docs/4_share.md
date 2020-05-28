@@ -16,36 +16,49 @@ Example 1:  [Indiana’s Management and Performance Hub:](http://iga.in.gov/legi
      Sec. 10. The MPH shall do the following:
  
 >(1) Establish and maintain a program to collect, analyze, and exchange government information in carrying out the powers and duties of the OMB and the powers and duties of the executive state agency sharing the data. In carrying out this program, the MPH may, in accordance with IC 4-1-6, obtain government information from each executive state agency.
-(2) In accordance with IC 4-1-6 and IC 5-14-3, establish and maintain a program to make government information available to executive state agencies, political subdivisions, educational institutions, researchers, nongovernmental organizations, and the general public, subject to the following:
-(A) A request for data subject to IC 4-1-6-8.6 shall be made in conformance with that section.
-(B) A program established and maintained under this chapter must include policies governing access to government information held by the MPH under this chapter. Government information may be made available only in accordance with applicable confidentiality and disclosure laws.
-(3) Establish privacy and quality policies for government information that comply with all applicable Indiana and federal laws, rules, and policies.
-(4) In accordance with standards developed by the office of technology established by IC 4-13.1-2-1, establish and maintain a program to ensure the security of government information under this chapter.
-(5) Conduct operational and procedural audits of executive state agencies.
-(6) Perform financial planning and design and implement efficiency projects for executive state agencies.
-(7) Advise and assist each executive state agency to identify and implement continuous process improvement in state government.
-(8) Carry out such other responsibilities as may be designated by the director of the OMB or the chief data officer to carry out the responsibilities of the OMB or the chief data officer.
+>
+>(2) In accordance with IC 4-1-6 and IC 5-14-3, establish and maintain a program to make government information available to executive state agencies, political subdivisions, educational institutions, researchers, nongovernmental organizations, and the general public, subject to the following:
+>
+>(A) A request for data subject to IC 4-1-6-8.6 shall be made in conformance with that section.
+>(B) A program established and maintained under this chapter must include policies governing access to government information held by the MPH under this chapter. Government information may be made available only in accordance with applicable confidentiality and disclosure laws.
+>
+>(3) Establish privacy and quality policies for government information that comply with all applicable Indiana and federal laws, rules, and policies.
+>
+>(4) In accordance with standards developed by the office of technology established by IC 4-13.1-2-1, establish and maintain a program to ensure the security of government information under this chapter.
+>
+>(5) Conduct operational and procedural audits of executive state agencies.
+>
+>(6) Perform financial planning and design and implement efficiency projects for executive state agencies.
+>
+>(7) Advise and assist each executive state agency to identify and implement continuous process improvement in state government.
+>
+>(8) Carry out such other responsibilities as may be designated by the director of the OMB or the chief data officer to carry out the responsibilities of the OMB or the chief data officer.
  
  
 Some agencies may be concerned that legally protected data is unintentionally disclosed under state public records requests. The following language can be used to ensure that only from which the data originates determines whether such data may be disclosed.
  
 >IC 4-3-26-12	Title to government information
 >     Sec. 12. (a) Title to any government information that is obtained by the MPH under section 11 of this chapter and that is unchanged by the MPH remains with the executive state agency sharing the government information, including an executive state agency's sole authority to license use of government information.
-     (b) Title to government information that is obtained by the MPH under section 11 of this chapter and that the MPH has changed in a substantive manner is vested in the MPH.
-     (c) Requests made in accordance with IC 5-14-3 for government information to which the MPH does not have title must be directed to the executive state agency sharing the government information. The MPH may not fulfill such a request.
+>
+>    (b) Title to government information that is obtained by the MPH under section 11 of this chapter and that the MPH has changed in a substantive manner is vested in the MPH.
+>
+>     (c) Requests made in accordance with IC 5-14-3 for government information to which the MPH does not have title must be directed to the executive state agency sharing the government information. The MPH may not fulfill such a request.
  
 The following section is a critical element to streamline the sharing of data to a centralized data integration organization. By establishing the MPH as an agent of the agency that administers programs that collect data, it authorizes the MPH organization to receive data from an agency thus eliminating the need for individual memoranda of agreement with each agency and for each program from which the data will be shared. It does not eliminate the need for individual data sharing agreements. 
  
 >IC 4-3-26-13	MPH agent of executive state agency
-     Sec. 13. The MPH is considered to be an agent of the executive state agency sharing government information and is an authorized receiver of government information under the statutory or administrative law that governs the government information. Interagency data sharing under this chapter does not constitute a disclosure or release under any statutory or administrative law that governs the government information.
+>
+>     Sec. 13. The MPH is considered to be an agent of the executive state agency sharing government information and is an authorized receiver of government information under the statutory or administrative law that governs the government information. Interagency data sharing under this chapter does not constitute a disclosure or release under any statutory or administrative law that governs the government information.
  
 Given that the above language does not eliminate the need for specific data sharing agreements, this language enables the MPH to establish a consistent approach to creating necessary agreements.
  
 >IC 4-3-26-14	Prescribed form for data sharing
-     Sec. 14. (a) The MPH shall prescribe a form to be used to memorialize the sharing of data under this chapter.
+>
+>     Sec. 14. (a) The MPH shall prescribe a form to be used to memorialize the sharing of data under this chapter.
      (b) The form prescribed under subsection (a) must be:
-(1) completed by the executive state agency or person described in section 15 of this chapter; and
-(2) signed by the administrative head of the executive state agency or person.
+>
+>(1) completed by the executive state agency or person described in section 15 of this chapter; and
+>(2) signed by the administrative head of the executive state agency or person.
      (c) A data sharing form completed and signed under subsection (b) constitutes the agreement required by any statutory or administrative law that governs the data. No additional documentation may be required to share data under this chapter.
 
 
