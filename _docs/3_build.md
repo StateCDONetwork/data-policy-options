@@ -6,4 +6,6 @@ nav: true
 weight: 5
 ---
 
-## Ensure ongoing support exists for data efforts.
+## Increase the capacity of stakeholders to effectively use data.
+
+No state has legislation in place that supports capacity building. 
