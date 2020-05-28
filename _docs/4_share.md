@@ -49,17 +49,15 @@ Given that the above language does not eliminate the need for specific data shar
      (c) A data sharing form completed and signed under subsection (b) constitutes the agreement required by any statutory or administrative law that governs the data. No additional documentation may be required to share data under this chapter.
 
 
-Example 2: North Carolina:  
- 
-https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_143b/gs_143b-1385.html
+Example 2: [North Carolina:](https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_143b/gs_143b-1385.html)
 
 Since an integrated data system generally involves the sharing of sensitive and legally protected personal information, states may seek to craft more detailed legislation in order to address any specific privacy or security concerns. Additionally, the legislative process may require negotiations to narrow more broad language referred to above. The following example specifically lays out the responsibilities of individual agencies and establishes detailed duties and responsibilities of a data integration center. In addition, where the previous example broadly designates the Indiana Management and Performance Hub as an agent of any program or agency that may participate, this example includes language intended to authorize the North Carolina Government Data Analytics Center as an agent of specific programs.
 
 The following sections from the North Carolina General Statutes are intended to authorize the entity to receive data from specific programs. Similar to the above language from Indiana, this eliminates the need for program specific memoranda of agreements, however this identifies the specific programs and laws governing each program from which the entity may receive data. The following represents many of the critical programs in all states; however, it is not an exhaustive list. States may want to add or remove sections based on their priorities.
 
-(c)        Data Sharing. -
+>(c)        Data Sharing. -
 
-(1)        General duties of all State agencies. - Except as limited or prohibited by federal law, the head of each State agency, department, and institution shall do all of the following:
+>(1)        General duties of all State agencies. - Except as limited or prohibited by federal law, the head of each State agency, department, and institution shall do all of the following:
 a.         Grant the State CIO and the GDAC access to all information required to develop and support State business intelligence applications pursuant to this section. The State CIO and the GDAC shall take all necessary actions and precautions, including training, certifications, background checks, and governance policy and procedure, to ensure the security, integrity, and privacy of the data in accordance with State and federal law and as may be required by contract.
 b.         Provide complete information on the State agency's information technology, operational, and security requirements.
 c.         Provide information on all of the State agency's information technology activities relevant to the State business intelligence effort.
@@ -78,7 +76,7 @@ f.          The North Carolina Department of Health and Human Services, pursuant
 
 This section contains language similar to the Indiana example making the office an authorized agent of an agency; however, it refers to specific programs or laws rather than broadly across government.
 
-(d)       Provisions on Privacy and Confidentiality of Information.
+>(d)       Provisions on Privacy and Confidentiality of Information.
 (1)        Status with respect to certain information. - The State CIO and the GDAC shall be deemed to be all of the following for the purposes of this section:
 a.         A criminal justice agency (CJA), as defined under Criminal Justice Information Services (CJIS) Security Policy. The State CJIS Systems Agency (CSA) shall ensure that CJLEADS receives access to federal criminal information deemed to be essential in managing CJLEADS to support criminal justice professionals.
 b.         With respect to health information covered under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), as amended, and to the extent allowed by federal law:
