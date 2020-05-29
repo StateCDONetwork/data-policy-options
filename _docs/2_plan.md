@@ -23,7 +23,7 @@ No state currently has a legislated data governance structure however the Common
  
 **Inventory Data -** 
 
-Example 2: [Florida](https://www.flsenate.gov/Session/Bill/2017/2500/BillText/er/PDF)
+Example 1: [Florida](https://www.flsenate.gov/Session/Bill/2017/2500/BillText/er/PDF)
 >The Chief Data Officer, in consultation with state agencies shall develop an enterprise data inventory that describes the data created or collected by a state agency, including geospatial data used in a state agency’s geographic information system, and recommend options and associated costs for developing and maintaining an open data catalog that is machine-readable. For purposes of developing the inventory, the Chief Data Officer shall establish a process and a reporting format for state agencies to provide an inventory that describes all current datasets aggregated or stored by the state agency. The inventory shall include, but is not limited to: 1) the title and description of the information contained within the dataset; 2) a description of how the data is maintained, including standards or terminologies used to structure the data; 3) any existing or planned application programming interface used to publish the data; 4) a description of the data contained in any such existing interface; and 5) a description of the data expected to be contained in any currently planned interface.
  
 Example 2: [Connecticut](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p)
