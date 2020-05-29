@@ -71,8 +71,8 @@ The following sections from the North Carolina General Statutes are intended to 
 >(c)        Data Sharing. -
 >
 >(1)General duties of all State agencies. - Except as limited or prohibited by federal law, the head of each State agency, department, and institution shall do all of the following:
-
->     a.Grant the State CIO and the GDAC access to all information required to develop and support State business         intelligence applications pursuant to this section. The State CIO and the GDAC shall take all necessary actions and precautions, including training, certifications, background checks, and governance policy and procedure, to ensure the security, integrity, and privacy of the data in accordance with State and federal law and as may be required by contract.
+>
+> a.Grant the State CIO and the GDAC access to all information required to develop and support State business intelligence applications pursuant to this section. The State CIO and the GDAC shall take all necessary actions and precautions, including training, certifications, background checks, and governance policy and procedure, to ensure the security, integrity, and privacy of the data in accordance with State and federal law and as may be required by contract.
 >
 >b.Provide complete information on the State agency's information technology, operational, and security requirements.
 >
