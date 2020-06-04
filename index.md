@@ -7,9 +7,9 @@ title: Introduction
  
 Every day state governments make decisions that affect the lives of their residents. As state governments become increasingly digital, the amount of digital data in states’ possession has grown exponentially. States are seeking to leverage this data to make more informed decisions and to deliver services faster, cheaper, and more effectively.
  
-As states mature in their collection, maintenance, and use of data, their approaches can be fragmented, inefficient, and unpredictable. In 2018, the Pew Charitable Trusts examined how states use data to inform decisions. The report identified a series of strategic action states can implement to advance how they use data.
+As states mature in their collection, maintenance, and use of data, their approaches can be fragmented, inefficient, and unpredictable. In 2018, the Pew Charitable Trusts [examined](https://www.pewtrusts.org/-/media/assets/2018/02/dasa_how_states_use_data_report_v5.pdf) how states use data to inform decisions. The report identified a series of strategic action states can implement to advance how they use data.
  
-Missing from these actions is the designation of a leader to coordinate and facilitate the use of data statewide. The organization Results for America published a State Standard of Excellence that identifies “Data Leadership” as a critical component for states in advancing their use of data and evidence. According to Results for America, “A designated chief data officer can create a coherent set of policies, structures, and guidance for how state agencies should routinely use data to improve programs.”
+Missing from these actions is the designation of a leader to coordinate and facilitate the use of data statewide. The organization Results for America published a [State Standard of Excellence](https://2019state.results4america.org/)that identifies “Data Leadership” as a critical component for states in advancing their use of data and evidence. According to Results for America, “A designated chief data officer can create a coherent set of policies, structures, and guidance for how state agencies should routinely use data to improve programs.”
  
 Based on these reports and lessons learned from the nation’s state Chief Data Officers, the State Chief Data Officers Network recommends the following principles for states to utilize in advancing their use of data:
  
@@ -31,5 +31,5 @@ The following are a series of examples of legislative language that states can d
 
 **Model Legislation for State Chief Data Officers and Data Integration Centers**
 
-> | Lead | Plan | Build | Share | Analyze | Sustain |
+> | [Lead](/lead/) | [Plan](/plan/) | [Build](/build/) | [Share](/share/) | [Analyze](/analyze) | [Sustain](/sustain/) |
 
