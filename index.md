@@ -1,5 +1,5 @@
 ---
-title: Introduction
+
 ---
 ![Beeck Center State Chief Data Officers Network](/images/header.png)
 
