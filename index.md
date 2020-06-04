@@ -31,5 +31,5 @@ The following are a series of examples of legislative language that states can d
 
 **Model Legislation for State Chief Data Officers and Data Integration Centers**
 
-> | [Lead](/lead/) | [Plan](/plan/) | [Build](/build/) | [Share](/share/) | [Analyze](/analyze) | [Sustain](/sustain/) |
+> | [Lead](.../lead/) | [Plan](.../plan/) | [Build](.../build/) | [Share](.../share/) | [Analyze](.../analyze) | [Sustain](.../sustain/) |
 
