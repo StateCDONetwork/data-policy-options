@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: State CDO Network: Data Policy Options
+title: State CDO Network Data Policy Options
 url: "https://statecdonetwork.github.io/data-policy-options"
 baseurl:
 google_analytics_key:
@@ -9,7 +9,7 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: State Chief Data Officers Network: State Data Policy Option Guidelines.
+description: State Chief Data Officers Network- State Data Policy Option Guidelines.
 author:
   name:
   email:
