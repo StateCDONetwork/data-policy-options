@@ -19,7 +19,7 @@ Example 1: [Connecticut:](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-
 While Oregon’s CDO is required to establish an “enterprise data and information strategy,” Connecticut is the only state required by law to have a formal [state data plan](https://portal.ct.gov/CTData/Content/Connecticut-State-Data-Plan). The plan was developed in a series of iterative phases, with each providing an opportunity for input from the public and government agencies. The plan consists of a series of strategic principles and practices to guide agencies in the use and management of data, along with public policy issues called “Focal Points” to establish priority areas for state agencies to focus data efforts. 
  
 **Establishing a data governance structure -**
-No state currently has a legislated data governance structure however the Commonwealth of Virginia has established one by executive order.
+No state currently has a legislated data governance structure however the Commonwealth of Virginia has established one by [executive order](https://www.administration.virginia.gov/cdo/data-governance/).
  
 **Inventory Data -** 
 
