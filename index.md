@@ -27,3 +27,7 @@ Key to the long term sustainability of state data efforts is establishing laws t
  
 The following are a series of examples of legislative language that states can draw upon to aid in implementing the six principles. These examples are based on existing laws from various states and highlight critical elements of the legislation.
 
+**Model Legislation for State Chief Data Officers and Data Integration Centers**
+
+> | Lead | Plan | Build | Share | Analyze | Sustain |
+
