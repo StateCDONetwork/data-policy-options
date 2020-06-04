@@ -1,9 +1,10 @@
----
 
----
 ![Beeck Center State Chief Data Officers Network](/images/header.png)
 
-## State Data Policy Option Guidelines
+---
+title: State Data Policy Option Guidelines
+---
+
  
 Every day state governments make decisions that affect the lives of their residents. As state governments become increasingly digital, the amount of digital data in states’ possession has grown exponentially. States are seeking to leverage this data to make more informed decisions and to deliver services faster, cheaper, and more effectively.
  
