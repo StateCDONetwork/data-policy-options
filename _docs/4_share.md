@@ -50,7 +50,7 @@ The following section is a critical element to streamline the sharing of data to
 >
 > Sec. 13. The MPH is considered to be an agent of the executive state agency sharing government information and is an authorized receiver of government information under the statutory or administrative law that governs the government information. Interagency data sharing under this chapter does not constitute a disclosure or release under any statutory or administrative law that governs the government information.
  
-Given that the above language does not eliminate the need for specific data sharing agreements, this language enables the MPH to establish a consistent approach to creating necessary agreements.
+Given that the above language does not eliminate the need for specific data sharing agreements, the following language enables the MPH to establish a [consistent approach](https://soi.formstack.com/forms/mph_dsa)to creating necessary agreements.
  
 >IC 4-3-26-14	Prescribed form for data sharing
 >
