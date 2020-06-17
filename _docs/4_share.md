@@ -35,7 +35,7 @@ Example 1:  [Indiana’s Management and Performance Hub:](http://iga.in.gov/legi
 >(8) Carry out such other responsibilities as may be designated by the director of the OMB or the chief data officer to carry out the responsibilities of the OMB or the chief data officer.
  
  
-Some agencies may be concerned that legally protected data is unintentionally disclosed under state public records requests. The following language can be used to ensure that only from which the data originates determines whether such data may be disclosed.
+Some agencies may be concerned that legally protected data is unintentionally disclosed under state public records requests. The following language can be used to ensure that only the agency from which the data originates can determine whether such data may be disclosed.
  
 >IC 4-3-26-12	Title to government information
 >     Sec. 12. (a) Title to any government information that is obtained by the MPH under section 11 of this chapter and that is unchanged by the MPH remains with the executive state agency sharing the government information, including an executive state agency's sole authority to license use of government information.
@@ -50,7 +50,7 @@ The following section is a critical element to streamline the sharing of data to
 >
 > Sec. 13. The MPH is considered to be an agent of the executive state agency sharing government information and is an authorized receiver of government information under the statutory or administrative law that governs the government information. Interagency data sharing under this chapter does not constitute a disclosure or release under any statutory or administrative law that governs the government information.
  
-Given that the above language does not eliminate the need for specific data sharing agreements, the following language enables the MPH to establish a [consistent approach](https://soi.formstack.com/forms/mph_dsa)to creating necessary agreements.
+Given that the above language does not eliminate the need for specific data sharing agreements, the following language enables the MPH to establish a [consistent approach](https://soi.formstack.com/forms/mph_dsa) to creating necessary agreements.
  
 >IC 4-3-26-14	Prescribed form for data sharing
 >
